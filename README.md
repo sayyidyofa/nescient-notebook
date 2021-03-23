@@ -4,7 +4,7 @@ This jupyter notebook describes my attempt to run DDoS detection algorithm based
 
 I did not come up with the algorithm myself, you can refer to the paper for clearer explanation. 
 
-My complete implementation of the Dynamic Thresholding Algorithm can be seen at my other repo[[3]](#3).
+My complete implementation of the Dynamic Thresholding Algorithm can be seen at other repo[[3]](#3).
 
 ### Links
 
@@ -12,4 +12,4 @@ My complete implementation of the Dynamic Thresholding Algorithm can be seen at 
 
 <a id="2" href="https://archive.ll.mit.edu/ideval/data/2000/LLS_DDOS_1.0.html">[2] LLDOS 1.0 - Scenario One</a>
 
-<a id="3" href="https://github.com/sayyidyofa/nescient">[3] Nescient</a>
+<a id="3" href="https://github.com/fmmochtar/autonetapi-csr1000v">[3] Nescient</a>
